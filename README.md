@@ -16,4 +16,4 @@ git remote add origin https://github.com/ArunAjithRaman/Git-and-GitHub-with-Dood
 git push -u origin main
 
 + I have created an empty folder in my file explorer and opened the folder in CMD. After Opened CMD I just copy pasted and executed the lines one by one.
-  + The first line `echo "# Git-and-GitHub-with-Dood" >> README.md` created an README.md file with the content `"# Git-and-GitHub-with-Dood"`.
+   + The first line `echo "# Git-and-GitHub-with-Dood" >> README.md` created an README.md file with the content `"# Git-and-GitHub-with-Dood"`.
